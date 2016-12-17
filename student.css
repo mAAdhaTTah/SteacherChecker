@@ -1,0 +1,71 @@
+h1{
+    color:black;
+    text-align:center;
+    font-family:Verdana;
+    background-color:#DDA0DD;
+    padding:25px;
+    }
+.header{
+   margin: 0;
+   text-shadow: 4px 4px grey;
+   font-family: fantasy;
+	 font-size: 50px;
+  
+}
+
+body{
+  width: 100%;
+  margin:0;
+}
+
+.wrapper{
+  width:500px;
+  margin:center;
+}
+.loc , .fast{
+  float:left
+}
+.des , .delay{
+  float: right;
+}
+.dv1 , .dv2{
+  border:solid;
+  width: 400px;
+  height:400px;
+  margin: 0 auto;
+
+}
+.wrapper2{
+  width:1000px;
+  margin: 0 auto;
+
+}
+.wrapper3{
+  position: relative;
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+  bottom: -450px;
+}
+.input1{
+  position: relative;
+  margin: 0 auto;
+}
+.clearfix {
+  position: relative;
+  margin: 0 auto;
+}
+.loc{
+  position: relative;
+  margin: 0 auto;
+}
+.des{
+  position: relative;
+  margin: 0 auto;
+}
+.btn2, .booton{
+  width:100px;
+  height:40px;
+  color:orange;
+  
+}
